@@ -1,5 +1,7 @@
 # RockPaperScissorsGame
 
+![Game screenshot](https://user-images.githubusercontent.com/624760/71784657-98785900-2fed-11ea-99c7-d3d8f1367166.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 ## Development server
