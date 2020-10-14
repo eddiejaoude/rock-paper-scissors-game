@@ -4,7 +4,7 @@ import './App.css';
 const App: React.FC= ():JSX.Element => {
   return (
     <>
-    Hello lol
+      <h1>Rock Paper Scissor Game</h1>
     </>
   );
 }
