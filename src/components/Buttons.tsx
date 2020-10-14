@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Buttons: React.FC = ():JSX.Element => {
+const Buttons: React.FC = (props):JSX.Element => {
     return (
         <>
-        Hello from buttons
+        <div className="button">{props.children}</div>
         </>
     )
 }
