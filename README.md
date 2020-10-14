@@ -1,31 +1,44 @@
-# RockPaperScissorsGame
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Game screenshot](https://user-images.githubusercontent.com/624760/71784657-98785900-2fed-11ea-99c7-d3d8f1367166.png)
+## Available Scripts
 
-This game was built as part of a youtube video https://youtu.be/DlXEHAfFvCQ - don't forget to subscribe to get notified for futuer videos (it is free)
+In the project directory, you can run:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+### `yarn start`
 
-## Development server
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-## Code scaffolding
+### `yarn test`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Build
+### `yarn build`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Running unit tests
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Running end-to-end tests
+### `yarn eject`
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-## Further help
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
