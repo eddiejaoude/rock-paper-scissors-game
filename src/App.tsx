@@ -45,6 +45,7 @@ const App: React.FC = (): JSX.Element => {
                 setShowModal(true);
                 return isWinner.dispatch({ type: "Play", userChoice: "Paper" });
               }}
+              data-testid="rock"
             />
           </div>
           <div className="button">
@@ -82,6 +83,7 @@ const App: React.FC = (): JSX.Element => {
           <button
             className="close-modal-btn"
             onClick={() => setShowModal(false)}
+            data-testid="ok"
           >
             ok
           </button>
