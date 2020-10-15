@@ -4,9 +4,11 @@ Click on any `Rock`, `Paper`, `Scissor` icons to make your choice then computer 
 
 ## screenshots
 
-<img src="./public/img/main.png" />
+![main](./public/img/main.png)
+
 ---
-<img src="./public/img/modal.png" />
+
+![modal](./public/img/modal.png)
 
 ## Willing to contribute on this project ?
 
