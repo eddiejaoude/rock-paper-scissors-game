@@ -1,4 +1,4 @@
-# RockPaperScissorsGame
+# Rock Paper Scissors Game
 
 ![Game screenshot](https://user-images.githubusercontent.com/624760/71784657-98785900-2fed-11ea-99c7-d3d8f1367166.png)
 
